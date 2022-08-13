@@ -1,4 +1,4 @@
-## :computer: My Projects
+## :computer: Mes projets
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 |:computer: **Technologie**|:rocket: **Projets**              |
