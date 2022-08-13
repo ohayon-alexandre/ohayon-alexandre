@@ -14,7 +14,8 @@
 |[![Gatsby](https://img.shields.io/static/v1?label=&message=Gatsby&color=F18E33&logo=gatsby&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Xcape](https://img.shields.io/static/v1?label=Xcape&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ohayon-alexandre/Xcape)
 
-|[![Next](https://img.shields.io/static/v1?label=&message=Next&color=F18E33&logo=nextjs&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+|[![Next](https://img.shields.io/static/v1?label=&message=Next&color=F18E33&logo=next.js&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CryptoChecker](https://img.shields.io/static/v1?label=CryptoChecker&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ohayon-alexandre/CryptoChecker)
 
 |[![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=F18E33&logo=typescript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
