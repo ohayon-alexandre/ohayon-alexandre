@@ -1,4 +1,4 @@
-## :computer: Mes projets
+## :orange_book: Mes projets
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 |:computer: **Technologie**|:rocket: **Projets**              |
