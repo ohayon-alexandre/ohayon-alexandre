@@ -1,4 +1,4 @@
-| **Technologies**| **Projets publiques ** |
+| **Technologies**| **Projets publiques** |
 |-----------------|-----------------------------|
 |[![Javascript Vanilla](https://img.shields.io/static/v1?label=&message=JavaScript&color=202124&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[![javascript-course](https://img.shields.io/static/v1?label=javascript-course&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ohayon-alexandre/javascript-course)
 |[![Express](https://img.shields.io/static/v1?label=&message=express&color=202124&logo=express&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[![node-course](https://img.shields.io/static/v1?label=node-course&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ohayon-alexandre/node-course)[![github-oauth](https://img.shields.io/static/v1?label=github-oauth&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ohayon-alexandre/github-oauth)
